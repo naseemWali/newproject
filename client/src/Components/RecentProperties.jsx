@@ -79,5 +79,4 @@ const RecentProperties = () => {
     </div>
   )
 }
-
 export default RecentProperties;

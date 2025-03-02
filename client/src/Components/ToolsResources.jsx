@@ -12,5 +12,4 @@ const ToolsResources = () => {
     </div>
   )
 }
-
 export default ToolsResources

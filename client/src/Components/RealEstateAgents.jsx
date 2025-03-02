@@ -50,9 +50,6 @@ const RealEstateAgents = () => {
     </div>
     <button className="my-10 font-semibold text-lg sm:text-xl text-white bg-yellow-500 px-8 py-5 uppercase">View All Agents</button>
     </div>
-
-    
   )
 }
-
 export default RealEstateAgents;
